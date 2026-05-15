@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.opencode/
+.openinspect-cache/
+*.log
